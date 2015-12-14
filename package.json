@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "angular2": "^2.0.0-alpha.53",
+    "grunt": "^0.4.5"
+  }
+}
